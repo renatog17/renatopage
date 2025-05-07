@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: center;
+    gap: 50px;
+    color: azure;
+}
+
+.header-item{
+    padding: 10px;
+    cursor: pointer;
+}
+
+.header-item:hover{
+    background-color:rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+}
