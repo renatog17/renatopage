@@ -10,7 +10,7 @@ export default function Projetos() {
     {
       nome: "Página Estética Integrativa",
       descricao: "Landing Page para uma clínica de estética",
-      link: "https://github.com/renatog17/estetica-integrativa-cd"
+      link: "https://estetica-integrativa-cd.vercel.app/"
     }
   ];
 
