@@ -7,6 +7,11 @@ export default function Projetos() {
       descricao: "Aplicativo de flash cards para aprender idiomas.",
       link: "https://github.com/renatog17/flashcards-react",
     },
+    {
+      nome: "Página Estética Integrativa",
+      descricao: "Landing Page para uma clínica de estética",
+      link: "https://github.com/renatog17/estetica-integrativa-cd"
+    }
   ];
 
   return( 

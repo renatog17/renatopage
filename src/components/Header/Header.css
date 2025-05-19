@@ -4,11 +4,10 @@
     list-style-type: none;
     justify-content: center;
     gap: 50px;
-    color: azure;
+    margin: 0;
 }
 
 .header-item{
-    padding: 10px;
     cursor: pointer;
 }
 
