@@ -8,6 +8,7 @@ export default function Header() {
       <li className="header-item">Play</li>
       <li className="header-item">Notes</li>
       <li className="header-item">Contact</li>
+      PÁGINA EM CONSTRUÇÃO
     </ul>
   );
 }
